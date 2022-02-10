@@ -1,0 +1,22 @@
+.price-details {
+  width: 30rem;
+  margin: 0 auto;
+  background: var(--white-color);
+  padding: var(--space-sm);
+  display: flex;
+  flex-flow: column;
+  gap: var(--space-xxs);
+}
+
+.price-details-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: var(--space-xxs);
+  width: 100%;
+  justify-content: end;
+}
+
+.price-details button {
+  width: 90%;
+  align-self: center;
+}
