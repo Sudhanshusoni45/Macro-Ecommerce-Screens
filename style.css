@@ -41,6 +41,10 @@ li {
   background: var(--orange-color);
 }
 
+/* .bg-primary {
+  background: var(--primary-color);
+} */
+
 body {
   background: var(--bg-grey-color);
   font-family: "Poppins", "sans serif";
