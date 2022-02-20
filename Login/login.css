@@ -31,6 +31,5 @@ body {
   display: block;
   width: 65%;
   font-size: 1.2rem;
-  /* background: #cf8ef4; */
   background: var(--dark-purple);
 }

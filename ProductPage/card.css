@@ -39,3 +39,9 @@
 .card-details h4:nth-child(2) {
   margin-left: 2rem;
 }
+
+@media screen and (max-width: 1293px) {
+  .ecomm-sidebar {
+    display: none;
+  }
+}
